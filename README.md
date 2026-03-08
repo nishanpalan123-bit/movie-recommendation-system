@@ -12,9 +12,13 @@ The system recommends movies similar to the selected movie using cosine similari
 - Jupyter Notebook
 
 ## Dataset
-TMDB 5000 Movies Dataset
 
-Files used:
+The dataset used in this project is the TMDB 5000 Movie Dataset.
+
+Download it from Kaggle:
+https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
+
+Files required:
 - tmdb_5000_movies.csv
 - tmdb_5000_credits.csv
 
